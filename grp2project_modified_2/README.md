@@ -1,4 +1,4 @@
-# Employee Management System — Group 2
+# Employee Management System — BY HARSH and OM
 
 A Spring Boot + Thymeleaf + MySQL web application for managing employee records.
 
